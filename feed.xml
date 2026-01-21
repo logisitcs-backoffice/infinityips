@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Related Logistics and 3PL Articles</title>
     <link>https://logisitcs-backoffice.github.io/infinityips/</link>
     <description><![CDATA[Latest curated logistics and third-party logistics (3PL) related articles]]></description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 00:00:00 +0000</lastBuildDate>
     
     <item>
       <title><![CDATA[How Data-Driven 3PL Providers Are Transforming Modern Supply Chains]]></title>
@@ -27,7 +27,7 @@
       <title><![CDATA[The Silent Struggle in Logistics Back Offices]]></title>
       <link>https://logisticsoutsourcing.bcz.com/2026/01/12/the-silent-struggle-why-your-logistics-back-office-is-hurting-you-and-how-to-fix-it/</link>
       <guid>https://logisticsoutsourcing.bcz.com/2026/01/12/the-silent-struggle-why-your-logistics-back-office-is-hurting-you-and-how-to-fix-it/</guid>
-      <pubDate>Sun, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[Deep dive into logistics back office challenges and solutions.]]></description>
     </item>
 
@@ -35,7 +35,7 @@
       <title><![CDATA[The Essential Role of the Back Office in Logistics]]></title>
       <link>https://medium.com/@emilywatson3456/the-essential-role-of-the-back-office-in-logistics-operations-b9b7fc31d231</link>
       <guid>https://medium.com/@emilywatson3456/the-essential-role-of-the-back-office-in-logistics-operations-b9b7fc31d231</guid>
-      <pubDate>Fri, 10 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[Medium article on logistics back office roles and importance.]]></description>
     </item>
 
@@ -43,7 +43,7 @@
       <title><![CDATA[Back Office Freight Audit Services Cost & Benefits]]></title>
       <link>https://infinity-logistics.weebly.com/blog1/back-office-freight-audit-services-cost-benefits</link>
       <guid>https://infinity-logistics.weebly.com/blog1/back-office-freight-audit-services-cost-benefits</guid>
-      <pubDate>Wed, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[Weebly blog about freight audit services and operational advantages.]]></description>
     </item>
 
@@ -51,7 +51,7 @@
       <title><![CDATA[Behind the Scenes of Global Trade (Story)]]></title>
       <link>https://www.wattpad.com/1601930456-behind-the-scenes-of-global-trade-the-untold-story</link>
       <guid>https://www.wattpad.com/1601930456-behind-the-scenes-of-global-trade-the-untold-story</guid>
-      <pubDate>Thu, 16 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 16 Jan 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[Wattpad story exploring global trade behind the scenes.]]></description>
     </item>
 
@@ -59,10 +59,13 @@
       <title><![CDATA[Back Office Modernization Becomes Strategic Priority for Logistics Firms]]></title>
       <link>https://emilywatson3456.wixsite.com/outsource-logistics/post/back-office-modernization-becomes-a-strategic-priority-for-logistics-firms</link>
       <guid>https://emilywatson3456.wixsite.com/outsource-logistics/post/back-office-modernization-becomes-a-strategic-priority-for-logistics-firms</guid>
-      <pubDate>Thu, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
       <description><![CDATA[Wix blog discussing modernization of logistics back office functions.]]></description>
     </item>
 
-  </channel>
+  </channel
+    <atom:link href="https://logisitcs-backoffice.github.io/infinityips/feed.xml" rel="self" type="application/rss+xml" />
+
 </rss>
+
 
