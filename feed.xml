@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Related Logistics & 3PL Articles</title>
+    <title>Related Logistics and 3PL Articles</title>
     <link>https://logisitcs-backoffice.github.io/infinityips/</link>
-    <description><![CDATA[Latest curated logistics & third-party logistics (3PL) related articles]]></description>
+    <description><![CDATA[Latest curated logistics and third-party logistics (3PL) related articles]]></description>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
     
@@ -65,3 +65,4 @@
 
   </channel>
 </rss>
+
