@@ -11,8 +11,9 @@
     <description><![CDATA[Latest curated logistics and third-party logistics (3PL) related articles]]></description>
     <language>en-us</language>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <lastBuildDate>Mon, 22 Jan 2024 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jan 2024 12:00:00 +0000</lastBuildDate>
 
+    <!-- ITEM 1 -->
     <item>
       <title><![CDATA[How Data-Driven 3PL Providers Are Transforming Modern Supply Chains]]></title>
       <link>https://datafloq.com/how-data-driven-third-party-logistics-3pl-providers-are-transforming-modern-supply-chains/</link>
@@ -21,6 +22,7 @@
       <description><![CDATA[Datafloq expert article on the impact of data analytics in 3PL logistics.]]></description>
     </item>
 
+    <!-- ITEM 2 -->
     <item>
       <title><![CDATA[Back Office Services Benefits (Press Release)]]></title>
       <link>https://express-press-release.net/news/2026/01/13/1730947</link>
@@ -29,6 +31,7 @@
       <description><![CDATA[Press release highlighting benefits of back office logistics services.]]></description>
     </item>
 
+    <!-- ITEM 3 -->
     <item>
       <title><![CDATA[The Silent Struggle in Logistics Back Offices]]></title>
       <link>https://logisticsoutsourcing.bcz.com/2026/01/12/the-silent-struggle-why-your-logistics-back-office-is-hurting-you-and-how-to-fix-it/</link>
@@ -36,6 +39,26 @@
       <pubDate>Wed, 17 Jan 2024 12:00:00 +0000</pubDate>
       <description><![CDATA[Deep dive into logistics back office challenges and solutions.]]></description>
     </item>
-    
-  </channel>
-</rss>
+
+    <!-- ITEM 4 -->
+    <item>
+      <title><![CDATA[The Essential Role of the Back Office in Logistics Operations]]></title>
+      <link>https://medium.com/@emilywatson3456/the-essential-role-of-the-back-office-in-logistics-operations-b9b7fc31d231</link>
+      <guid isPermaLink="true">https://medium.com/@emilywatson3456/the-essential-role-of-the-back-office-in-logistics-operations-b9b7fc31d231</guid>
+      <pubDate>Thu, 18 Jan 2024 12:00:00 +0000</pubDate>
+      <description><![CDATA[Medium article discussing how back office functions support logistics workflows.]]></description>
+    </item>
+
+    <!-- ITEM 5 -->
+    <item>
+      <title><![CDATA[Back Office Freight Audit Services – Cost Benefits]]></title>
+      <link>https://infinity-logistics.weebly.com/blog1/back-office-freight-audit-services-cost-benefits</link>
+      <guid isPermaLink="true">https://infinity-logistics.weebly.com/blog1/back-office-freight-audit-services-cost-benefits</guid>
+      <pubDate>Fri, 19 Jan 2024 12:00:00 +0000</pubDate>
+      <description><![CDATA[Breakdown of freight audit services and operational cost reduction for logistics companies.]]></description>
+    </item>
+
+    <!-- ITEM 6 -->
+    <item>
+      <title><![CDATA[Behind the Scenes of Global Trade – The Untold Story]]></title>
+      <link>https://www.wattpad.com/1601930456-behind-t
